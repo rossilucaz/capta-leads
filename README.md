@@ -14,4 +14,5 @@ driver = webdriver.Chrome(ChromeDriverManager().install())
 
 
 driver_path = '/Users/lucas/Downloads/chromedriver_win32/chromedriver.exe' # AQUI vc coloca o seu path
+
 driver = webdriver.Chrome(driver_path)
